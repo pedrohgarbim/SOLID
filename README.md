@@ -1,6 +1,6 @@
 # 🛠️ SOLID Principles
 
-Os princípios **SOLID** são cinco diretrizes de design de software que ajudam a criar sistemas mais robustos, fáceis de manter e flexíveis. Eles foram introduzidos por **Robert C. Martin** e são amplamente utilizados na programação orientada a objetos.
+Os princípios **SOLID** são cinco diretrizes de design de software que ajudam a criar sistemas mais robustos, fáceis de manter, flexíveis e são amplamente utilizados na programação orientada a objetos.
 
 Cada letra de **SOLID** representa um princípio:
 ![image](https://github.com/user-attachments/assets/d5924c36-180f-45c5-a5d1-688c1ac8c444)
