@@ -1,4 +1,4 @@
-# 🛠️ SOLID Principles 
+# 🛠️ SOLID Principles  
 
 Os princípios **SOLID** são cinco diretrizes de design de software que ajudam a criar sistemas mais robustos, fáceis de manter, flexíveis e são amplamente utilizados na programação orientada a objetos.
 
